@@ -1,0 +1,3 @@
+Hello, this is my DevOps assignment.
+I am learning Python file handling.
+This file was created using open() and write().
